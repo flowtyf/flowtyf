@@ -3,7 +3,7 @@
 
 I'm studying web dev full-time at Developers Institute NZ and working hard on my school projects (you can check out my commits!).
 
-- 🔭 In my spare time i'm spicing up my portfolio website
+- 🔭 In my spare time i'm spicing up my [portfolio website](https://taiao.dev)
 - 🌱 I’m currently learning JavaScript and React ⚡ 
 - 👯 I'm looking for collaborative open source projects, particularly beginner-friendly ones, to get some more hands-on experience. 
 
