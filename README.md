@@ -7,7 +7,7 @@ I'm studying web dev full-time at Developers Institute NZ and working hard on my
 - 🌱 I’m currently learning JavaScript and React ⚡ 
 - 👯 I'm looking for collaborative open source projects, particularly beginner-friendly ones, to get some more hands-on experience. 
 
-##### Feel free to give me a shout! I'm always happy to chat, network, and learn from others.
+#### Feel free to give me a shout! I'm always happy to chat, network, and learn from others.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiaokawiti/) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:taiaokawiti@protonmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.taiao.dev)
 
