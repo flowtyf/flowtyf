@@ -3,7 +3,7 @@
 
 I'm currently studying full time at Developers Institute NZ. My github is quite empty - but you'll see from my commits I'm working hard in my school project repos.
 
-- 🔭 I’m currently working on my portfolio website in my spare time! 
+- 🔭 Right now I'm working on my portfolio website in my spare time 
 - 🌱 I’m currently learning JavaScript and React ⚡ 
 - 👯 I’m looking to collaborate on anything and everything! I'd love to get my feet wet with any beginner-friendly issues you might have on your projects. 
 
