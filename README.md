@@ -11,8 +11,10 @@ Feel free to give me a shout! I'm always happy to chat, network, and learn from 
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=flowtyf)  
-You are visitor number ![Visitor Count](https://profile-counter.glitch.me/flowtyf/count.svg)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/flowtyf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taiaokawiti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](taiao.dev)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/flowtyf)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taiaokawiti/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](taiao.dev)  
 
 
 <!--
