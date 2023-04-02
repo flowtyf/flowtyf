@@ -3,7 +3,7 @@
 
 I'm studying web dev full-time at Developers Institute NZ and working hard on my school projects (check out those commits!😎).
 
-[![Taiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowtyf&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Taiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowtyf&theme=radical&count_private=true&hide_border=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 In my spare time i'm spicing up my [portfolio website...](https://taiao.dev)
