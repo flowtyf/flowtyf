@@ -1,11 +1,11 @@
 ### Kia ora 👋, my name is Taiao
 #### I'm on a mission to become a full-stack web developer.
 
-I'm currently studying full time at Developers Institute NZ. My github is quite empty - but you'll see from my commits I'm working hard in my school project repos.
+I'm studying web dev full-time at Developers Institute NZ and working hard on my school projects (you can check out my commits!).
 
-- 🔭 Right now I'm working on my portfolio website in my spare time 
+- 🔭 In my spare time i'm spicing up my portfolio website
 - 🌱 I’m currently learning JavaScript and React ⚡ 
-- 👯 I’m looking to collaborate on anything and everything! I'd love to get my feet wet with any beginner-friendly issues you might have on your projects. 
+- 👯 I'm looking for collaborative open source projects, particularly beginner-friendly ones, to get some more hands-on experience. 
 
 Feel free to give me a shout! I'm always happy to chat, network, and learn from others.
 
