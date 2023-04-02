@@ -1,17 +1,18 @@
-### Kia Ora 👋
+### Kia ora 👋, my name is Taiao
+#### I'm on a mission to become a full-stack web developer.
+
+I'm currently studying full time at Developers Institute NZ. My github is quite empty - but you'll see from my commits I'm working hard in my school project repos.
+
+- 🔭 I’m currently working on my portfolio website in my spare time! 
+- 🌱 I’m currently learning JavaScript and React ⚡ 
+- 👯 I’m looking to collaborate on anything and everything! I'd love to get my feet wet with any beginner-friendly issues you might have on your projects. 
+
+Feel free to give me a shout! I'm always happy to chat, network, and learn from others.
 
 
-
-Hey there! My name is Taiao and I'm on a mission to become a full stack web developer. I'm currently studying at Developers Institute NZ.
-
-My github is currently pretty barren - but im working on my portfolio site right now and trying
-
-So whether you're a fellow developer looking to collaborate, or just someone interested in seeing what I'm up to, feel free to give me a shout! I'm always happy to chat and learn from others.
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-![Visitor Count](https://profile-counter.glitch.me/flowtyf/count.svg)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=flowtyf)  
+You are visitor number ![Visitor Count](https://profile-counter.glitch.me/flowtyf/count.svg)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/flowtyf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taiaokawiti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](taiao.dev)  
 
 
 <!--
