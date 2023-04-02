@@ -1,7 +1,7 @@
 ### Kia ora 👋, my name is Taiao
 #### I'm on a mission to become a full-stack web developer.
 
-I'm studying web dev full-time at Developers Institute NZ and working hard on my school projects (you can check out my commits!).
+I'm studying web dev full-time at Developers Institute NZ and working hard on my school projects (check out those commits!😎).
 
 - 🔭 In my spare time i'm spicing up my [portfolio website](https://taiao.dev)
 - 🌱 I’m currently learning JavaScript and React ⚡ 
@@ -12,9 +12,8 @@ Feel free to give me a shout! I'm always happy to chat, network, and learn from 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=flowtyf)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/flowtyf)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taiaokawiti/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](taiao.dev)  
+![![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiaokawiti/) 
+![![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](taiao.dev)  
 
 
 <!--
