@@ -6,7 +6,7 @@ I'm studying web dev full-time at Developers Institute NZ and working hard on my
 [![Taiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowtyf&theme=github_dark&count_private=true&hide_border=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 In my spare time i'm building my [portfolio website...](https://taiao.dev)
+- 🔭 In my spare time i'm finishing up my capstone project for The Odin Project's foundations course, and building my [portfolio website...](https://taiao.dev)
 - 🌱 I’m currently learning JavaScript and React ⚡ 
 - 👯 I'm looking for collaborative open source projects, particularly beginner-friendly ones, to get some more hands-on experience. 
 
