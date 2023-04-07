@@ -1,7 +1,7 @@
 ### Kia ora 👋 my name is Taiao
 #### I'm on a mission to become a full-stack web developer.
 
-I'm studying web dev full-time at Developers Institute NZ and working hard on my school projects (check out those commits!😎).
+I'm studying web dev full-time at Developers Institute NZ and working hard on side projects
 
 [![Taiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowtyf&theme=github_dark&count_private=true&hide_border=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
