@@ -3,8 +3,8 @@
 
 I'm studying web dev full-time at Developers Institute NZ, and working on a few side projects.
 
-- 🔭 In my spare time i'm working on The Odin Project, and building my portfolio website
-- 🌱 I’m currently learning JavaScript, React, and Node.js ⚡ 
+- 🔭 In my spare time i'm working on The Odin Project, and building a gamified todo list
+- 🌱 I’m currently learning PostgreSQL, Docker, and Node.js ⚡ 
 - 👯 I'm looking for collaborative open source projects, particularly beginner-friendly ones, to get some more hands-on experience. 
 
 #### Feel free to give me a shout! I'm always happy to chat, network, and learn from others.
